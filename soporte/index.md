@@ -24,6 +24,10 @@ No. Tus fotos y su ubicación exacta se quedan en tu teléfono. Lee el detalle e
 
 En Mavia, ve a **Ajustes → Exportar todo**. Obtienes un archivo con tus viajes y paradas.
 
+### ¿Necesito una cuenta?
+
+No. Puedes usar Mavia sin cuenta: tu mapa queda solo en tu teléfono. Si quieres respaldarlo para recuperarlo al cambiar de teléfono, ve a **Ajustes → Tu cuenta → Guardar en mi cuenta** e inicia sesión con Apple.
+
 ### ¿Cómo elimino mi cuenta?
 
-En Mavia, ve a **Ajustes → Eliminar mi cuenta y mis datos**. Se borran tu cuenta, tus viajes guardados y los datos de Mavia en tu teléfono. Las fotos de tu galería no se tocan.
+En Mavia, ve a **Ajustes → Tu cuenta → Eliminar mi cuenta y mis datos**. Se borran tu cuenta, tus viajes guardados y los datos de Mavia en tu teléfono. Las fotos de tu galería no se tocan.

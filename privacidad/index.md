@@ -4,13 +4,15 @@ title: Política de privacidad
 
 # Política de privacidad de Mavia
 
-**Vigente desde: 12 de octubre de 2026.** Última actualización: 20 de octubre de 2026 (nuevo correo de contacto y nueva dirección de esta página).
+**Vigente desde: 12 de octubre de 2026.** Última actualización: 24 de octubre de 2026 (la cuenta pasa a ser opcional).
 
 ## Responsable y contacto
 
 El responsable de tus datos es **Andrés Refusta**, persona natural en Chile. Puedes escribir a **soporte@mavia-app.cl** para consultas o solicitudes sobre tu privacidad.
 
 Mavia es una app gratuita para iPhone que arma tu mapa de viajes usando la ubicación y la fecha de las fotos de tu galería. No tiene publicidad, no vende tus datos ni realiza rastreo entre apps. No utiliza App Tracking Transparency.
+
+**Puedes usar Mavia sin crear una cuenta.** La cuenta es opcional y solo sirve para respaldar tu mapa y recuperarlo si cambias de teléfono.
 
 ## Datos que quedan en tu teléfono
 
@@ -20,9 +22,17 @@ La ubicación exacta y la fecha de cada foto, tu zona de casa —ciudad, centro 
 
 Este procesamiento se inicia cuando eliges **Importar mi galería** y autorizas el acceso a Fotos. Puedes retirar ese permiso en los ajustes de iOS. Retirarlo impide nuevos accesos a tu galería, pero no equivale a eliminar los datos ya guardados.
 
-## Cuenta y viajes guardados
+## Usar Mavia sin cuenta
 
-Al usar **Iniciar sesión con Apple**, guardamos en Supabase tu identificador de Apple, tu correo —que puede ser el correo privado de retransmisión de Apple— y tu nombre, si lo compartes.
+Sin cuenta, tus viajes, paradas, nombres, notas y ajustes se guardan solo en tu teléfono y no se envían a Supabase. Puedes importar tu galería, agregar viajes a mano, ver y editar tu mapa, compartir imágenes y exportar tus datos sin iniciar sesión.
+
+Como no hay respaldo, **si borras la app o cambias de teléfono sin haber creado una cuenta, pierdes los viajes guardados en Mavia.** Tus fotos originales siguen en tu galería.
+
+Las métricas de uso descritas más abajo también se aplican sin cuenta: se asocian a un identificador aleatorio de la instalación, no a tu nombre ni a tu correo, y puedes apagarlas en Ajustes.
+
+## Cuenta opcional y viajes guardados
+
+Puedes crear una cuenta cuando quieras, desde la oferta **Guarda tu mapa** o en **Ajustes → Tu cuenta → Guardar en mi cuenta**. Al usar **Iniciar sesión con Apple**, guardamos en Supabase tu identificador de Apple, tu correo —que puede ser el correo privado de retransmisión de Apple— y tu nombre, si lo compartes.
 
 Para guardar y recuperar tu mapa, conservamos en tu cuenta:
 
@@ -62,7 +72,11 @@ La imagen para compartir se arma en tu teléfono, sin metadatos ni ubicación ex
 
 ## Conservación y eliminación
 
-Conservamos los datos mientras exista tu cuenta. Puedes eliminarla desde **Ajustes → Eliminar mi cuenta y mis datos**.
+Conservamos los datos mientras exista tu cuenta. Puedes eliminarla desde **Ajustes → Tu cuenta → Eliminar mi cuenta y mis datos**.
+
+Si **cierras sesión**, Mavia primero termina de guardar en tu cuenta lo que esté pendiente y después borra los datos de Mavia de tu teléfono; tu cuenta y tu mapa siguen en la nube para cuando vuelvas a entrar.
+
+Sin cuenta, los datos solo existen en tu teléfono: se borran al eliminar la app.
 
 Al eliminarla:
 
